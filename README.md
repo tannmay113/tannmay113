@@ -17,10 +17,10 @@
   
 <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=itanmay728&label=Profile%20views&color=0e75b6&style=flat" alt="itanmay728" />  
-   <a href="https://github.com/itanmay728">
-     <img src="https://img.shields.io/github/stars/itanmay728?style=social" alt="GitHub stars">
+   <a href="https://github.com/tannmay113">
+     <img src="https://img.shields.io/github/stars/tannmay113?style=social" alt="GitHub stars">
    </a>
-   <img src = "https://img.shields.io/github/followers/itanmay728?style=social" alt = "itanmay728"/>
+   <img src = "https://img.shields.io/github/followers/tannmay113?style=social" alt = "tannmay113"/>
  </p>
  
 <br>
@@ -31,10 +31,10 @@
 
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/myselftanmay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay-kumar-282a0a204" height="30" width="40" /></a>
-<a href="https://instagram.com/itanmay728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itanmay728" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iamtannmay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay-kumar-282a0a204" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tannmay1130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itanmay728" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@tanmayvlogs728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanmayvlogs728" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanmay728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmay728" height="30" width="40" /></a>
+<a href="http://leetcode.com/u/tannmay113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmay728" height="30" width="40" /></a>
 </p>
 
 ---
