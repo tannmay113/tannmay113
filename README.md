@@ -56,7 +56,7 @@
 
 <p align="center">  
   <a href="https://github.com/itanmay728">
-    <img src="https://img.shields.io/github/stars/itanmay728?style=for-the-badge&logo=github&label=Give%20a%20Star&color=FFD700" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/tannmay113?style=for-the-badge&logo=github&label=Give%20a%20Star&color=FFD700" alt="GitHub stars">
   </a>  
 </p> 
 
